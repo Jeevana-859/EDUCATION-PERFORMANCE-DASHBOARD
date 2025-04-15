@@ -63,3 +63,11 @@ These visualization suggestions aim to effectively communicate the insights deri
 Import the student performance dataset into Power BI.
 Create DAX measures for each key insight using the provided expressions.
 Utilize the DAX measures and visualization suggestions to analyze and visualize student performance data effectively.
+
+![Image](https://github.com/user-attachments/assets/d30bd576-5270-484d-a0d3-9d5aa92684fd)
+
+
+
+
+
+![Image](https://github.com/user-attachments/assets/39e2b207-64ba-4a11-a22d-516ff2b06635)
